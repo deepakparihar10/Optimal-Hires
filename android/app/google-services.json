@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "510624408460",
+    "project_id": "optimalhires-136c4",
+    "storage_bucket": "optimalhires-136c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510624408460:android:9a863cc8e8827ef4796ca9",
+        "android_client_info": {
+          "package_name": "com.example.optimal_hires"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510624408460-v6j1348k08fji058f3shgagdc1mhkbjd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.optimal_hires",
+            "certificate_hash": "d302e0e0b045a56883aec63432919b4439d97792"
+          }
+        },
+        {
+          "client_id": "510624408460-oochl56m56mnqtorosp3j9s2hbrrg462.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzBJ9hwDWEwfX7X9mo3XyujG3LpJSxvlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510624408460-oochl56m56mnqtorosp3j9s2hbrrg462.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
